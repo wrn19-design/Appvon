@@ -1,0 +1,5 @@
+streamlit>=1.40
+pillow>=10.1
+requests
+rembg
+onnxruntime
